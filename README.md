@@ -15,14 +15,14 @@ Overview
   ![](https://github.com/kteru/hanat/wiki/images/01.png)
 
 - When "i-AAAAAAAA" is failure
-  - Replacng route
+  - Replacing route table
 
   ![](https://github.com/kteru/hanat/wiki/images/02.png)
 
 Requirements
 ------------
 
-- 2 EC2 instances
+- 2 EC2 instances which have EIP or Public IP
   - No need to select "NAT instance"
 
 - IAM Policies
