@@ -8,7 +8,7 @@ Overview
   - Setting sysctl variables to forwarding packet
   - Adding IP masquerade rule
   - Disabling the Source/Dest Check of my own instance
-  - Configuring route of subnets which have responsibility
+  - Configuring route table of subnets which have responsibility
 
 - Ordinary
 
