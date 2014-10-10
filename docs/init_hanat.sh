@@ -12,10 +12,10 @@
 prog=hanat
 pidfile=/var/run/$prog.pid
 lockfile=/var/lock/subsys/$prog
+logfile=/var/log/$prog.log
 
 basedir=/opt/hanat
 exec=$basedir/bin/hanat.sh
-logfile=$basedir/logs/hanat.log
 
 start() {
     echo -n $"Starting $prog: "
