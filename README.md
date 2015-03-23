@@ -12,12 +12,12 @@ Overview
 
 - Ordinary
 
-  ![](https://github.com/kteru/hanat/wiki/images/01.png)
+  ![](https://raw.githubusercontent.com/wiki/kteru/hanat/images/01.png)
 
 - When "i-AAAAAAAA" is failure
   - Replacing route table
 
-  ![](https://github.com/kteru/hanat/wiki/images/02.png)
+  ![](https://raw.githubusercontent.com/wiki/kteru/hanat/images/02.png)
 
 Requirements
 ------------
